@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// input 
-
-namespace Inverse
+﻿namespace Inverse
 {
     class Program
     {
@@ -25,6 +22,4 @@ namespace Inverse
             }
         }
     }
-
-
 }
