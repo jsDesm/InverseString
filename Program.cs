@@ -14,7 +14,7 @@ namespace Inverse
 
             string Inverse(string name)
             {
-                if (name.Length == 0)
+                if (name.Length == 1)
                 {
                     return name;
                 }
