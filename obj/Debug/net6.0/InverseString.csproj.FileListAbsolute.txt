@@ -1,0 +1,15 @@
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\bin\Debug\net6.0\InverseString.exe
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\bin\Debug\net6.0\InverseString.deps.json
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\bin\Debug\net6.0\InverseString.runtimeconfig.json
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\bin\Debug\net6.0\InverseString.dll
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\bin\Debug\net6.0\InverseString.pdb
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\InverseString.csproj.AssemblyReference.cache
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\InverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\InverseString.AssemblyInfoInputs.cache
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\InverseString.AssemblyInfo.cs
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\InverseString.csproj.CoreCompileInputs.cache
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\InverseString.dll
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\refint\InverseString.dll
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\InverseString.pdb
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\InverseString.genruntimeconfig.cache
+C:\Users\Jean-Simon Desmarais\Documents\hiv23\InverseString\obj\Debug\net6.0\ref\InverseString.dll
